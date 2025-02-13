@@ -7,6 +7,8 @@
 body{
   background: radial-gradient(52.52% 32.71% at 50% 97.66%, rgba(36, 160, 181, 0.20) 0%, rgba(36, 160, 181, 0.00) 100%), #02191D;
   font-family: "Roboto", serif;
+  min-height: 100vh;
+  /* height: 100vh; */
 }
 @media (max-width: 640px) { /* Adjust for small screens */
   body {
