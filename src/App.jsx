@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import TicketSelection from './components/TicketSelection'
 import AttendeeDetails from './components/AttendeeDetails'
 import TicketReady from './components/TicketReady'
+import AboutProject from './components/AboutProject'
 import { Routes, Route } from "react-router-dom";
 
 function App() {
